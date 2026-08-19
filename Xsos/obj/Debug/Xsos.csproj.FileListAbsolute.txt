@@ -1,0 +1,12 @@
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.Properties.Resources.resources
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.csproj.GenerateResource.cache
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.csproj.CoreCompileInputs.cache
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.MainForm.resources
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Debug\ScintillaNET.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.csproj.CopyComplete
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Debug\Xsos.exe.config
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Debug\Xsos.exe
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Debug\Xsos.pdb
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.exe
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.pdb
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Debug\Xsos.csprojAssemblyReference.cache

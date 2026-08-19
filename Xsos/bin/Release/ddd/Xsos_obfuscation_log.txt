@@ -1,0 +1,15 @@
+[26/10/2019 22:06:11] Started Obfuscation Process
+Bobo112233 | 0
+free obfuscation task : will not cost a token
+[DEPENDENCIES]
+sending dependencies...
+
+[OPTIONS]
+    [+] Anti ildasm
+    [+] Code Flow
+    [+] Protect Calls
+    [+] Protect resources
+    [+] Anti VirtualMachine
+    [+] Anti Emulation
+Protecting file...
+[end] Obfuscation done in 0 minutes and 25 second

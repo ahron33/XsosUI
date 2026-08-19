@@ -1,0 +1,107 @@
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\Xsos.exe.config
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\Xsos.exe
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\Xsos.pdb
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ScintillaNET.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.MainForm.resources
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.Properties.Resources.resources
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.csproj.GenerateResource.cache
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.csproj.CoreCompileInputs.cache
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.csproj.CopyComplete
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.exe
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.pdb
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Data.v19.1.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Utils.v19.1.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.XtraBars.v19.1.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Data.v19.1.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Utils.v19.1.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.XtraBars.v19.1.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.csprojAssemblyReference.cache
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.OptionsForm.resources
+C:\Users\Pot\source\repos\Xsos\Xsos\obj\Release\Xsos.exe.licenses
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\Xsos.exe.config
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\Xsos.exe
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\Xsos.pdb
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Printing.v19.1.Core.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Sparkline.v19.1.Core.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Pdf.v19.1.Core.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Data.v19.1.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Utils.v19.1.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.XtraBars.v19.1.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.XtraEditors.v19.1.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Printing.v19.1.Core.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Sparkline.v19.1.Core.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\DevExpress.Pdf.v19.1.Core.xml
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.Data.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.Data.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.Data.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.Data.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.Utils.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.Utils.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.Utils.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.Utils.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.XtraBars.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.XtraBars.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.XtraBars.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.XtraBars.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\de\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\es\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\bin\Release\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.csproj.AssemblyReference.cache
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.MainForm.resources
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.OptionsForm.resources
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.Properties.Resources.resources
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.csproj.GenerateResource.cache
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.exe.licenses
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.csproj.CoreCompileInputs.cache
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.csproj.Up2Date
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.exe
+F:\Start\SAVE FORMAT\SAVE FORMAT\Xsos\Xsos\obj\Release\Xsos.pdb

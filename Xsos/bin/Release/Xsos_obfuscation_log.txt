@@ -1,0 +1,15 @@
+[25/10/2019 20:34:28] Started Obfuscation Process
+Bobo112233 | 0
+free obfuscation task : will not cost a token
+[DEPENDENCIES]
+sending dependencies...
+[->] C:\Users\Pot\source\repos\Xsos\Xsos\bin\Release\ScintillaNET.dll sent !
+[OPTIONS]
+    [+] Anti ildasm
+    [+] Code Flow
+    [+] Protect Calls
+    [+] Protect resources
+    [+] Anti VirtualMachine
+    [+] Anti Emulation
+Protecting file...
+[end] Obfuscation done in 0 minutes and 24 second

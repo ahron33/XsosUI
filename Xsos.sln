@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xsos", "Xsos\Xsos.csproj", "{DF6577F5-14FE-4867-A743-A91FA1885B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6577F5-14FE-4867-A743-A91FA1885B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6577F5-14FE-4867-A743-A91FA1885B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6577F5-14FE-4867-A743-A91FA1885B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6577F5-14FE-4867-A743-A91FA1885B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0229233-B84A-4DF1-9D94-A827F3D2A7B3}
+	EndGlobalSection
+EndGlobal
